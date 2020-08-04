@@ -1,4 +1,4 @@
-     __    __     ______     __     __         ______     ______     ______     ______    
+__    __     ______     __     __         ______     ______     ______     ______    
     /\ "-./  \   /\  __ \   /\ \   /\ \       /\  ___\   /\  __ \   /\  == \   /\  ___\   
     \ \ \-./\ \  \ \  __ \  \ \ \  \ \ \____  \ \ \____  \ \ \/\ \  \ \  __<   \ \  __\   
      \ \_\ \ \_\  \ \_\ \_\  \ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_____\ 
@@ -6,6 +6,8 @@
                                                                                       
 
 ## What is MailCore
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FMailCore.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FMailCore?ref=badge_shield)
+
 
 MailCore is a Mac and iOS library designed to ease the pain of dealing with e-mail protocols. MailCore makes the process of sending e-mail easy by hiding the nasty details like MIME composition from you. Instead, there is a single method required to send a message. Checking e-mail on an IMAP server is a more complex beast, but MailCore makes the job much simpler by presenting everything as a set of objects like Messages, Folders and Accounts.
 
@@ -84,3 +86,7 @@ Thanks,
 
 Matt Ronge  
 [@mronge](http://www.twitter.com/mronge)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FMailCore.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FMailCore?ref=badge_large)
